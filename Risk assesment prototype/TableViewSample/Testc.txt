@@ -1,0 +1,1 @@
+Maintenance,Hydraulics,Penetrating media,Pray,1,0,4,NoOperation,Laser source,Eye damage,Pray,3,2,4,NoOperation,Spindle,Risk of retraction,Pray,4,1,4,YesAll Stages,Live parts,Electrocution,Pray,5,3,4,NoMaintenance,Spindle,Pinch hazard,Pray,6,2,4,No
